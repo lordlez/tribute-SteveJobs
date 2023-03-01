@@ -1,0 +1,98 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#main{
+    margin: 10px 10px;
+    background-color: #a4a19a;
+    font-family: sans-serif;
+    padding: 35px 5px;
+    background-image: url("images/fondo.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#title{
+    letter-spacing: 2px;
+    font-size: 3rem;
+    margin: 0;
+    transition: 650ms;
+}
+
+#title, p{
+    text-align: center;
+    color: #333d29;
+}
+
+#title-description{
+    color :#333d29;
+}
+
+img{
+    display: block;
+    margin: 0 auto 20px auto;
+}
+
+#img-div{
+    text-align: center;
+    background-color: rgba(255,255,255,.3);
+    padding: 20px 0;
+    max-width: 100%;
+}
+
+#image{
+    max-width: 100%;
+    height: auto;
+}
+
+#img-caption{
+    text-align: center;
+    color: #333d29;
+}
+
+#tribute-info{
+    margin-top: 55px;
+}
+
+
+h2{
+    text-align: center;
+    color: #333d29;
+}
+
+ul{
+    max-width: 550px;
+    text-align: left;
+    margin: 0 auto 50px auto;
+    color: #333d29;
+}
+
+li{
+    margin-top: 15px;
+}
+
+strong:hover{
+    color:white;
+}
+
+h3{
+    text-align: center;
+    color: #333d29;
+}
+
+a{
+    text-decoration: none;
+    color: purple;
+}
+
+a:hover{
+    color: blueviolet;
+}
+
+blockquote{
+    text-align: center;
+    color: #333d29;
+}
